@@ -1,0 +1,22 @@
+1716983312.167866: glob
+1716983312.167877: optind: 2, argc:3
+1716983312.167878: main: Logging in  DEBUG
+
+1716983312.167878: main: Logging in  ERROR
+
+1716983312.167879: main: Logging in  INFO
+
+1716983312.167879: main: Logging in  WARNING
+
+1716983312.167880: main: Logging in  DUMP 
+
+1716983312.227667: beacon parser thread creation in process
+1716983312.227829: -----------beacon capture---------
+
+1716983312.227855: -----------beacon capture---------
+
+1716983325.243276: -----------beacon capture---------
+
+1716983333.469374: -----------beacon capture---------
+
+1716983334.520756: Closing function successfullly
